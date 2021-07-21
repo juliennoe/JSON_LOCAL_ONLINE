@@ -1,0 +1,43 @@
+﻿{
+    "coord": {
+        "lon": 5.7028,
+        "lat": 47.796
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "m_base": "stations",
+    "main": {
+        "temp": 277.82,
+        "feels_like": 274.2,
+        "temp_min": 277.15,
+        "temp_max": 278.15,
+        "pressure": 1025,
+        "humidity": 65
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 2.06,
+        "deg": 20
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1616443694,
+    "sys": {
+        "type": 1,
+        "id": 6596,
+        "country": "FR",
+        "sunrise": 1616391357,
+        "sunset": 1616435523
+    },
+    "timezone": 3600,
+    "id": 3031086,
+    "name": "Ouge",
+    "cod": 200
+}

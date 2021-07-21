@@ -1,0 +1,46 @@
+{
+    "t_string": "ceci est un string",
+    "t_int": 23,
+    "t_float": 50.51,
+    "t_byte": 255,
+    "t_bool": true,
+
+    "t_array": [
+        {
+            "t_string": "Je suis la valeur 0",
+            "t_int": 0,
+            "t_float": 0.0,
+            "t_byte": 100,
+            "t_bool": false,
+            "t_sousArray": [
+                "string 1",
+                "string 2",
+                "string 3"
+            ]
+        },
+        {
+            "t_string": "Je suis la valeur 1",
+            "t_int": 1,
+            "t_float": 1.1,
+            "t_byte": 200,
+            "t_bool": false,
+            "t_sousArray": [
+                "string 4",
+                "string 5",
+                "string 6"
+            ]
+        },
+        {
+            "t_string": "Je suis la valeur 2",
+            "t_int": 2,
+            "t_float": 2.2,
+            "t_byte": 300,
+            "t_bool": false,
+            "t_sousArray": [
+                "string 7",
+                "string 8",
+                "string 9"
+            ]
+        }
+    ]
+}
